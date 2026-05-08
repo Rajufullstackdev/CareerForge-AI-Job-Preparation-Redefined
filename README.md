@@ -1,5 +1,3 @@
-# CareerForge-AI-Job-Preparation-Redefined
-
 # CareerForge AI – Job Preparation Redefined
 
 ## Overview
